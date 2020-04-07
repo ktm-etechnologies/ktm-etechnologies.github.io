@@ -9,7 +9,7 @@
 > consumption assessment to determine the expected range of electric vehicle
 > designs.
 
-For more information about our general portfolio please visit (https://www.ktm-technologies.com)[https://www.ktm-technologies.com]
+For more information about our general portfolio please visit https://www.ktm-technologies.com  .
 
 ## Open Source Software Projects
 
@@ -23,4 +23,4 @@ Android supports a number of voice control features, but enabling an individual 
 * Simple API for training markov chains from an string array of possible commands variations
 * Support for generic terms such as locations or objects, such that they don't need to be enumerated in the training data
 
-The code is in proof-of-concept stage and feedback is welcome. The code can be found at (https://github.com/ktm-technologies/markov-phrase-matching-android)[https://github.com/ktm-technologies/markov-phrase-matching-android]. For a snapshot of the documentation please refer to (https://ktm-technologies.github.io/markov-phrase-matching-android-doc/)[https://ktm-technologies.github.io/markov-phrase-matching-android-doc/].
+The code is in proof-of-concept stage and feedback is welcome. The code can be found at https://github.com/ktm-technologies/markov-phrase-matching-android . For a snapshot of the documentation please refer to https://ktm-technologies.github.io/markov-phrase-matching-android-doc/ .
