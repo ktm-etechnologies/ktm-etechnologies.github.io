@@ -1,13 +1,19 @@
 
-> KTM Technologies is specializing in the development of light-weight electric
-> vehicles and related automotive components and engineering activities. 
-> Services include concept studies and prototype vehicle development, market 
-> research and benchmark, mechanical- and electrical design, supplier 
-> selection and rapid component development for both hard- and software.
-> The work is underpinned by industry standard simulation tools for
-> of structural and CFD analysis as well as crash simulation and energy 
-> consumption assessment to determine the expected range of electric vehicle
-> designs.
+## About KTM Technologies
+
+KTM Technologies is specializing in the development of light-weight electric
+vehicles and related automotive components and engineering activities. 
+Services include concept studies and prototype vehicle development, market 
+research and benchmark, mechanical- and electrical design, supplier 
+selection and rapid component development for both hard- and software.
+The work is underpinned by industry standard simulation tools for
+of structural and CFD analysis as well as crash simulation and energy 
+consumption assessment to determine the expected range of electric vehicle
+designs.
+
+KTM Technologies is offering its services to companies within the KTM and
+Pierer corporations, as well as to external customers such as German and
+international automotive OEMs.
 
 For more information about our general portfolio please visit https://www.ktm-technologies.com  .
 
