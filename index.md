@@ -19,14 +19,21 @@ For more information about our portfolio, ways to get in touch and legal imprint
 
 ## Open Source Software Projects
 
-### Phrase matching library for Android
+### Natural language phrase matching for Android
 
-Android supports a number of voice control features, but enabling an individual app for extensive voice control is not straight forward. This library helps to achieve that goal.
+Android supports a number of voice control features, but enabling an individual
+app for fine grained voice control is not straight forward. This library helps to
+achieve that.
 
-**Features include**
+Features include
+* Fast and efficient markov-chain based matching.
+* Simple API for training markov chains from an string array of possible
+  commands variations or loading models from JSON data.
+* Support for generic terms such as locations or objects, such that they
+  don't need to be enumerated in the training data.
+* Support for creating <a href="https://www.graphviz.org">Graphviz Dot</a> 
+  representations of models for visualization and debugging
 
-* Fast and efficient markov-chain based matching
-* Simple API for training markov chains from an string array of possible commands variations
-* Support for generic terms such as locations or objects, such that they don't need to be enumerated in the training data
-
-Code is in proof-of-concept stage and feedback is welcome. The git repository can be found at <a href="https://github.com/ktm-technologies/markov-phrase-matching-android">https://github.com/ktm-technologies/markov-phrase-matching-android</a>. For a snapshot of the documentation please refer to <a href="https://ktm-technologies.github.io/markov-phrase-matching-android-doc/">https://ktm-technologies.github.io/markov-phrase-matching-android-doc/</a>.
+The code is in proof-of-concept stage and feedback is welcome. 
+* Github page: <a href="https://github.com/ktm-technologies/markov-phrase-matching-android/">https://github.com/ktm-technologies/markov-phrase-matching-android/</a>
+* API reference: <a href="https://ktm-technologies.github.io/markov-phrase-matching-android-doc/">https://ktm-technologies.github.io/markov-phrase-matching-android-doc/</a>
