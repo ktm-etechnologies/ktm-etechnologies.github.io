@@ -1,7 +1,7 @@
 
 ## About KTM Technologies
 
-KTM Technologies is specializing in the development of light-weight electric
+At KTM Technologies we are specializing in development of light-weight electric
 vehicles, automotive components and related engineering activities. 
 Services include concept studies and prototype vehicle development, market 
 research and benchmark, mechanical- and electrical design, supplier 
@@ -13,9 +13,9 @@ designs.
 
 KTM Technologies is offering its services to companies within the KTM and
 Pierer corporations, as well as to external customers such as German and
-international automotive OEMs.
+international automotive and 2-wheeler OEMs and startups.
 
-For more information about our general portfolio please visit the <a href="https://www.ktm-technologies.com">KTM Technologies main website</a>.
+For more information about our portfolio, ways to get in touch and legal imprint, please visit the <a href="https://www.ktm-technologies.com">KTM Technologies main website</a>.
 
 ## Open Source Software Projects
 
