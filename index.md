@@ -21,6 +21,8 @@ For more information about our portfolio, ways to get in touch and legal imprint
 
 ### Natural language phrase matching for Android
 
+CI Status: ![Android CI](https://github.com/ktm-technologies/markov-phrase-matching-android/workflows/Android%20CI/badge.svg)
+
 Android supports a number of voice control features, but enabling an individual
 app for fine grained voice control is not straight forward. This library helps to
 achieve that.
