@@ -19,7 +19,7 @@ For more information about our portfolio, ways to get in touch and legal imprint
 
 ## Open Source Software Projects
 
-### nlcmd -- A natural language phrase matching library for Android
+### nlcmd &ndash A natural language phrase matching library for Android
 
 CI Status: ![Android CI](https://github.com/ktm-technologies/markov-phrase-matching-android/workflows/Android%20CI/badge.svg)
 
