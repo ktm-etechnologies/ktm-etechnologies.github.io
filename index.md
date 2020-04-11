@@ -21,7 +21,7 @@ For more information about our portfolio, ways to get in touch and legal imprint
 
 ### nlcmd &ndash; A natural language phrase matching library for Android
 
-CI Status: ![Android CI](https://github.com/ktm-technologies/markov-phrase-matching-android/workflows/Android%20CI/badge.svg)
+![Android CI](https://github.com/ktm-technologies/nlcmd/workflows/Android%20CI/badge.svg)
 
 Android supports a number of voice control features, but enabling an individual
 app for fine grained voice control is not straight forward. This library helps to
@@ -37,5 +37,5 @@ Features include
   representations of models for visualization and debugging
 
 The code is in proof-of-concept stage and feedback is welcome. 
-* Github page: <a href="https://github.com/ktm-technologies/markov-phrase-matching-android/">https://github.com/ktm-technologies/markov-phrase-matching-android/</a>
+* Github page: <a href="https://github.com/ktm-technologies/nlcmd/">https://github.com/ktm-technologies/nlcmd/</a>
 * API reference: <a href="https://ktm-technologies.github.io/markov-phrase-matching-android-doc/">https://ktm-technologies.github.io/markov-phrase-matching-android-doc/</a>
