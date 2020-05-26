@@ -1,5 +1,5 @@
 
-### &raquo; Back
+### &raquo; <a href="../">Back</a>
 
 ## Nlcmd 0.6.0
 
