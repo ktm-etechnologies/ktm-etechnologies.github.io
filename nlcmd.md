@@ -1,10 +1,13 @@
 
-### &raquo; <a href="../">Back</a>
+&raquo; <a href="../">Back</a>
 
-## Nlcmd 0.6.0
+# nlcmd &ndash; A natural language phrase matching library for Android
+
+## Release 0.6.0
 
 KTM Technologies nlcmd is a natural language phrase matching library for Android. 
-Together with Android's built-in speech-to-text functionality it can be used 
+Together with Android's built-in speech-to-text functionality it can be used to implement
+fine-grained voice control for Android apps.
 Version 0.6.0 is the first publically announced release of this alpha quality software package
 and we are happy to receive feedback and suggestions for desired improvements and functionality.
 
