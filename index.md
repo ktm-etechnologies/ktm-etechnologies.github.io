@@ -37,5 +37,8 @@ Features include
   representations of models for visualization and debugging
 
 The code is in proof-of-concept stage and feedback is welcome. 
+* Maven repo: <a href="https://github.com/ktm-technologies/nlcmd/packages/178866">https://github.com/ktm-technologies/nlcmd/packages/178866</a>
 * Github page: <a href="https://github.com/ktm-technologies/nlcmd/">https://github.com/ktm-technologies/nlcmd/</a>
 * API reference: <a href="https://ktm-technologies.github.io/nlcmd/doc/">https://ktm-technologies.github.io/nlcmd/doc/</a>
+* Releases: <a href="https://ktm-technologies.github.io/nlcmd.html">https://ktm-technologies.github.io/nlcmd.html</a>
+
