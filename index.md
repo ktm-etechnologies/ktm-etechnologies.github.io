@@ -23,6 +23,8 @@ For more information about our portfolio, ways to get in touch and legal imprint
 
 ![Android CI](https://github.com/ktm-technologies/nlcmd/workflows/Android%20CI/badge.svg)
 
+Latest: <a href="./nlcmd.html#nlcmd-060">Nlcmd 0.6.0</a>
+
 Android supports a number of voice control features, but enabling an individual
 app for fine grained voice control is not straight forward. This library helps to
 achieve that.
