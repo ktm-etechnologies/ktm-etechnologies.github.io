@@ -1,7 +1,7 @@
 
-## About KTM Technologies
+## About KTM E-Technologies
 
-At KTM Technologies we are specializing in development of light-weight electric
+At KTM E-Technologies we are specializing in development of light-weight electric
 vehicles, automotive components and related engineering activities. 
 Services include concept studies and prototype vehicle development, market 
 research and benchmark, mechanical- and electrical design, supplier 
@@ -11,17 +11,17 @@ structural and CFD analysis as well as crash simulation and energy
 consumption assessment to determine the expected range of electric vehicle
 designs.
 
-KTM Technologies is offering its services to companies within the KTM and
+KTM E-Technologies is offering its services to companies within the KTM and
 Pierer corporations, as well as to external customers such as German and
 international automotive and 2-wheeler OEMs and startups.
 
-For more information about our portfolio, ways to get in touch and legal imprint, please visit the <a href="https://www.ktm-technologies.com">KTM Technologies main website</a>.
+For more information about our portfolio, ways to get in touch and legal imprint, please visit the <a href="https://www.ktm-etechnologies.com">KTM E-Technologies main website</a>.
 
 ## Open Source Software Projects
 
 ### nlcmd &ndash; A natural language phrase matching library for Android
 
-![Android CI](https://github.com/ktm-technologies/nlcmd/workflows/Android%20CI/badge.svg)
+![Android CI](https://github.com/ktm-etechnologies/nlcmd/workflows/Android%20CI/badge.svg)
 
 Latest: <a href="./nlcmd.html#nlcmd-060">Nlcmd 0.6.0</a>
 
@@ -39,8 +39,8 @@ Features include
   representations of models for visualization and debugging
 
 The code is in proof-of-concept stage and feedback is welcome. 
-* Maven repo: <a href="https://github.com/ktm-technologies/nlcmd/packages/178866">https://github.com/ktm-technologies/nlcmd/packages/178866</a>
-* Github page: <a href="https://github.com/ktm-technologies/nlcmd/">https://github.com/ktm-technologies/nlcmd/</a>
-* API reference: <a href="https://ktm-technologies.github.io/nlcmd/doc/">https://ktm-technologies.github.io/nlcmd/doc/</a>
-* Releases: <a href="https://ktm-technologies.github.io/nlcmd.html">https://ktm-technologies.github.io/nlcmd.html</a>
-* Example app: <a href="https://github.com/ktm-technologies/nlcmd-android-examples">https://github.com/ktm-technologies/nlcmd-android-examples</a>
+* Maven repo: <a href="https://github.com/ktm-etechnologies/nlcmd/packages/178866">https://github.com/ktm-etechnologies/nlcmd/packages/178866</a>
+* Github page: <a href="https://github.com/ktm-etechnologies/nlcmd/">https://github.com/ktm-etechnologies/nlcmd/</a>
+* API reference: <a href="https://ktm-etechnologies.github.io/nlcmd/doc/">https://ktm-etechnologies.github.io/nlcmd/doc/</a>
+* Releases: <a href="https://ktm-etechnologies.github.io/nlcmd.html">https://ktm-etechnologies.github.io/nlcmd.html</a>
+* Example app: <a href="https://github.com/ktm-technologies/nlcmd-android-examples">https://github.com/ktm-etechnologies/nlcmd-android-examples</a>
